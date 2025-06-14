@@ -64,7 +64,7 @@ A relational database project built using **PostgreSQL** to simulate real-world 
 ## 🔁 Transactions Implemented
 
 - **`issue_book`**: Checks availability, issues book, and updates status in one atomic action.
-- **`return_book`**: Calculates fine (if overdue), updates return date and status.
+- **`return_book`**: Updates return date and status.
 - **`pay_subscription`**: Inserts payment and activates user’s subscription.
 - **`add_feedback`**: Safely inserts a review, avoiding duplicates.
 
@@ -104,6 +104,18 @@ A relational database project built using **PostgreSQL** to simulate real-world 
 - **PL/pgSQL** – PostgreSQL's Procedural Language for advanced logic  
 - **pgAdmin** – GUI tool for managing PostgreSQL databases  
 - **SQL** – Used for schema design, indexing, constraints, and queries
+
+---
+
+## 🚀 Future Work
+
+- ✅ **Authentication System:** Add a login/signup mechanism for users and admins using encrypted credentials.
+- 📈 **Analytics Module:** Generate detailed reports (e.g., most borrowed books, overdue trends, top-rated books).
+- 🌐 **Web Integration:** Build a front-end UI using web technologies (React.js or HTML/CSS/JS) to interact with the database.
+- 📱 **Mobile App Extension:** Create an Android/iOS app interface using Flutter or React Native.
+- 🧠 **Recommendation System:** Suggest books to users based on their borrowing and rating history.
+- 🔄 **Backup & Recovery:** Implement automated backup procedures and recovery scripts for production use.
+- ⏱️ **Real-Time Notifications:** Email or SMS reminders for return due dates and subscription expiries.
 
 ---
 
