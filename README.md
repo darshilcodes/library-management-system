@@ -100,19 +100,22 @@ A relational database project built using **PostgreSQL** to simulate real-world 
 
 ## 🛠️ Technologies Used
 
-**`PostgreSQL`**– Relational DBMS
-**`PL/pgSQL`** – Procedural extensions
-**`pgAdmin`** – GUI for PostgreSQL
-**`SQL`** – Schema design, indexing, constraints
+- **PostgreSQL** – Relational Database Management System (RDBMS)  
+- **PL/pgSQL** – PostgreSQL's Procedural Language for advanced logic  
+- **pgAdmin** – GUI tool for managing PostgreSQL databases  
+- **SQL** – Used for schema design, indexing, constraints, and queries
 
 ---
 
 ## 📄 License
-This project is open-sourced under the MIT License.
+
+This project is open-source and available under the **MIT License**.  
+Feel free to use, modify, and distribute with proper attribution.
 
 ---
 
 ## 👤 Author
 
-Darshil Radadiya
-GitHub: @darshilcodes
+**Darshil Radadiya**  
+🔗 GitHub: [@darshilcodes](https://github.com/darshilcodes)
+
